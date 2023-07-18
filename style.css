@@ -12,7 +12,7 @@
     height: 10px;
     background-color: #FF7143;
     animation-name: slide-right;
-    animation-duration: 10s;
+    animation-duration: 5s;
 }
 @keyframes slide-right {
     0%   {background-color:#FF7143; left:0px; top:-5px;}
